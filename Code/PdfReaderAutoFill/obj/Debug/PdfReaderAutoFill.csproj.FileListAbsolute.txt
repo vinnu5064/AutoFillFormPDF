@@ -1,0 +1,6 @@
+c:\users\welcome\documents\visual studio 2013\Projects\PdfReaderAutoFill\obj\Debug\PdfReaderAutoFill.csprojResolveAssemblyReference.cache
+c:\users\welcome\documents\visual studio 2013\Projects\PdfReaderAutoFill\bin\Debug\PdfReaderAutoFill.dll
+c:\users\welcome\documents\visual studio 2013\Projects\PdfReaderAutoFill\bin\Debug\PdfReaderAutoFill.pdb
+c:\users\welcome\documents\visual studio 2013\Projects\PdfReaderAutoFill\bin\Debug\itextsharp.dll
+c:\users\welcome\documents\visual studio 2013\Projects\PdfReaderAutoFill\obj\Debug\PdfReaderAutoFill.dll
+c:\users\welcome\documents\visual studio 2013\Projects\PdfReaderAutoFill\obj\Debug\PdfReaderAutoFill.pdb
